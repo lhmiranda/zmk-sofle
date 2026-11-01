@@ -30,6 +30,5 @@ manifest:
     - name: zmk-feature-watchdog
       remote: cormoran
       revision: main
-      import: true
   self:
     path: config
